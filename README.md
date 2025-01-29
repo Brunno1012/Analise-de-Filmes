@@ -14,11 +14,11 @@ TECNOLOGIAS UTILIZADAS
 
 - Scikit-Learn
 
-Objetivo
+-Objetivo
 
 O objetivo principal do projeto é analisar um conjunto de dados sobre filmes, visualizando tendências e aplicando modelos de regressão para identificar padrões. Isso pode ajudar a entender melhor quais fatores influenciam o sucesso de um filme.
 
-DATASET
+-DATASET
 O conjunto de dados utilizado neste projeto foi "cost_revenue_dirty.csv"
 
 COMO UTILIZAR
