@@ -1,4 +1,4 @@
-Análise de Filmes 🎬
+ANÁLISE DE FILMES 🎬
 
 Este projeto tem como objetivo explorar e analisar dados sobre filmes, utilizando bibliotecas como Pandas, Seaborn e Scikit-Learn. Através de visualizações e modelos estatísticos, buscamos identificar padrões e tendências nos dados, como a relação entre orçamento e bilheteria ou a influência das avaliações na popularidade dos filmes.
 
